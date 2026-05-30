@@ -9,10 +9,10 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@ai-sdk/deepseek": "^0.1.6",
-    "@ai-sdk/fireworks": "^0.1.6",
+    "@ai-sdk/deepseek": "^2.0.35",
+    "@ai-sdk/fireworks": "^2.0.53",
     "@vercel/analytics": "^1.4.1",
-    "ai": "^5.0.52",
+    "ai": "^6.0.193",
     "exa-js": "^1.4.8",
     "next": "16.2.6",
     "react": "^18",
